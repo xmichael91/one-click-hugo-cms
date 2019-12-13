@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
 
+locale: 'ru'
+
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
